@@ -1,5 +1,5 @@
 # Churn-Customers-Prediction
-A jupyter notebook for FanAsa Academy DeepNLP Homework for predicting Churn Customers
+A jupyter notebook for FanAsa Academy DeepNLP Homework for predicting Churn Customers. main file [here](https://github.com/AminTaheri23/Churn-Customers-Prediction/blob/master/AminTaheri_DeepNLP_HW1.ipynb)
 
 ## About Churn_Customers.csv
 This data set contains details of a bank's customers and the target variable is a binary variable reflecting the fact whether the customer left the bank (closed his account) or he continues to be a customer.
@@ -25,4 +25,5 @@ This data set contains details of a bank's customers and the target variable is 
 
 ## Misc.
 This was a Home Work for [FanAsa Academy's DeepNLP course](http://fanasa.co/academy.php) that held in [Summer of 1398(2019)](https://evand.com/events/%DA%A9%D8%A7%D8%B1%D8%A8%D8%B1%D8%AF%D9%87%D8%A7%DB%8C-%DB%8C%D8%A7%D8%AF%DA%AF%DB%8C%D8%B1%DB%8C-%D8%B9%D9%85%DB%8C%D9%82-%D8%AF%D8%B1-%D9%BE%D8%B1%D8%AF%D8%A7%D8%B2%D8%B4-%D9%85%D8%AA%D9%86-deep-nlp-6960592#event-cover). 
+
 Instructors: Reza Vasefi - Fatemeh Mashhadi
