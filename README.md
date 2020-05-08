@@ -1,4 +1,9 @@
 # Churn Customers Prediction with NeuralNets 
+
+<p>
+<img src="https://amintaheri23.github.io/img/portfolio/Churn_Blog.png">
+</p>
+
 A jupyter notebook for FanAsa Academy DeepNLP Homework for predicting Churn Customers. main file [here](https://github.com/AminTaheri23/Churn-Customers-Prediction/blob/master/AminTaheri_DeepNLP_HW1.ipynb)
 
 ## About Churn_Customers.csv
