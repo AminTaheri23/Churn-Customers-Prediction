@@ -1,6 +1,6 @@
 # Churn Customers Prediction with NeuralNets 
 
-<p>
+<p align="center">
 <img src="https://amintaheri23.github.io/img/portfolio/Churn_Blog.png">
 </p>
 
